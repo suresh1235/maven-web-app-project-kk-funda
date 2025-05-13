@@ -21,7 +21,7 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.218.32.153:9000/</sonar.host.url>
+		<sonar.host.url>http://3.87.142.41:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>sonar</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://3.90.191.2:8081/repository/ddlr-release/</url>
+	      <url>http://54.160.183.227:8081/repository/ddlr-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://3.90.191.2:8081/repository/ddlr-snapshot/</url>
+	      <url>http://54.160.183.227:8081/repository/ddlr-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
